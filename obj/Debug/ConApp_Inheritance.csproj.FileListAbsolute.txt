@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\bin\Debug\ConApp_Inheritance.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\bin\Debug\ConApp_Inheritance.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\bin\Debug\ConApp_Inheritance.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\obj\Debug\ConApp_Inheritance.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\obj\Debug\ConApp_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\obj\Debug\ConApp_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\obj\Debug\ConApp_Inheritance.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Inheritance\obj\Debug\ConApp_Inheritance.pdb
